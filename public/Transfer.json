@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "type": "Personal",
+    "accountNumber": "1234567890"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "type": "Personal",
+    "accountNumber": "9876543210"
+  },
+  {
+    "id": "3",
+    "name": "ABC Corporation",
+    "type": "Merchant",
+    "accountNumber": "5555666677"
+  },
+  {
+    "id": "4",
+    "name": "XYZ Foundation",
+    "type": "Organization",
+    "accountNumber": "1122334455"
+  }
+]
